@@ -1,4 +1,5 @@
 # ALKH - Debugging Algorithms Suite
+![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/result.png?raw=true)
 <h2>Features</h2>
 <ul>
     <li>Context based auto-folding: Understand variable's data path by selectively fold and unfold blocks of code.</li>
