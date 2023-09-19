@@ -49,7 +49,7 @@ git clone https://github.com/erez-aharonov/alkh-dist.git
     </ul>
 
 2. PyCharm's UI:<br>
-Right-click on the line of interest: Choose ALKH->Auto-Fold
+Right-click on the line of interest: Choose ALKH->Auto Fold
 ![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-fold.png?raw=true)
 3. Result
     <ul>
