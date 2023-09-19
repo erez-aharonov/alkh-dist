@@ -45,7 +45,7 @@ git clone https://github.com/erez-aharonov/alkh-dist.git
 1. Run server: default port is 13900
     <ul>
         <li>Linux: ./server or ./server [PORT-NUMBER]</li>
-        <li>Windows: server.exe or ./server [PORT-NUMBER]</li>
+        <li>Windows: server.exe or ./server.exe [PORT-NUMBER]</li>
     </ul>
 
 2. PyCharm's UI:<br>
