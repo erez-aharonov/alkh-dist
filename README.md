@@ -39,7 +39,7 @@
 git clone https://github.com/erez-aharonov/alkh-dist.git
 2. Install plugin: 
 <br>Use PyCharm's UI: file->setting->plugin->gear-icon->Install Plugin from Disk: Choose alkh-X.X.X.zip
-![](https://github.com/erez-aharonov/alkh/blob/main/readme_files/take-it-offline-0.png?raw=true)
+![](https://github.com/erez-aharonov/alkh-dist/blob/main/pycharm_installation.png?raw=true)
 
 ### Usage
 1. Run server: default port is 13900
@@ -50,10 +50,10 @@ git clone https://github.com/erez-aharonov/alkh-dist.git
 
 2. PyCharm's UI:<br>
 Right-click on the line of interest: Choose ALKH->Auto-Fold
-![](https://github.com/erez-aharonov/alkh/blob/main/readme_files/take-it-offline-0.png?raw=true)
+![](https://github.com/erez-aharonov/alkh-dist/blob/main/auto-fold.png?raw=true)
 3. Result
     <ul>
         <li>Context based folded and unfolded code</li>
         <li>Context based data path summary</li>
     </ul>
-![](https://github.com/erez-aharonov/alkh/blob/main/readme_files/take-it-offline-0.png?raw=true)
+![](https://github.com/erez-aharonov/alkh-dist/blob/main/result.png?raw=true)
