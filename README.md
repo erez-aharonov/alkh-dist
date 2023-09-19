@@ -38,7 +38,7 @@
 1. Get files: <br> 
 git clone https://github.com/erez-aharonov/alkh-dist.git
 2. Install plugin: 
-<br>Use PyCharm's UI: file->setting->plugin->gear-icon->Install Plugin from Disk: Choose alkh-X.X.X.zip
+<br>Use PyCharm's UI: file->settings->plugin->gear-icon->Install Plugin from Disk: Choose alkh-X.X.X.zip
 ![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/pycharm_installation.png?raw=true)
 
 ### Usage
