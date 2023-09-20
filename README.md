@@ -1,4 +1,6 @@
 # ALKH - Debugging Algorithms Suite
+![Muḥammad ibn Musa al Khwarizmi](https://en.wikipedia.org/wiki/Al-Khwarizmi)
+
 ![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-fold.gif?raw=true)
 <h2>Features</h2>
 <ul>
