@@ -1,7 +1,6 @@
 # ALKH - Debugging Algorithms Suite
-[Muhammad ibn Musa al Khwarizmi](https://en.wikipedia.org/wiki/Al-Khwarizmi)
+Name inspiration: Muhammad ibn Musa al Khwarizmi
 
-<a href="https://en.wikipedia.org/wiki/Al-Khwarizmi" target="_blank">Al-Khwarizmi</a>
 ![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-fold.gif?raw=true)
 <h2>Features</h2>
 <ul>
