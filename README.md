@@ -1,5 +1,5 @@
 # ALKH - Debugging Algorithms Suite
-![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/result.png?raw=true)
+![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-fold.gif?raw=true)
 <h2>Features</h2>
 <ul>
     <li>Context based auto-folding: Understand variable's data path by selectively fold and unfold blocks of code.</li>
@@ -59,4 +59,5 @@ Right-click on the line of interest: Choose ALKH->Auto Fold
         <li>Context based folded and unfolded code</li>
         <li>Context based data path summary</li>
     </ul>
-![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/result.png?raw=true)
+![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-fold.gif?raw=true)
+
