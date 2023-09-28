@@ -62,5 +62,5 @@ Right-click on the line of interest: Choose ALKH->Auto Focus
         <li>Context based line highlighting</li>
         <li>Context based data path navigation</li>
     </ul>
-![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-fold.gif?raw=true)
+![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-focus.gif?raw=true)
 
