@@ -59,7 +59,8 @@ Right-click on the line of interest: Choose ALKH->Auto Focus
 3. Result
     <ul>
         <li>Context based folded and unfolded code</li>
-        <li>Context based data path summary</li>
+        <li>Context based line highlighting</li>
+        <li>Context based data path navigation</li>
     </ul>
 ![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-fold.gif?raw=true)
 
