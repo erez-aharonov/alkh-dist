@@ -4,7 +4,7 @@ Name inspiration: Muhammad ibn Musa al Khwarizmi
 ![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-fold.gif?raw=true)
 <h2>Features</h2>
 <ul>
-    <li>Context based auto-folding: Understand variable's data path by selectively fold and unfold blocks of code.</li>
+    <li>Context based Auto-Focus: Understand variable's data path by folding, highlighting and navigating code.</li>
 </ul>
 <h2>Properties</h2>
 <ul>
