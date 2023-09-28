@@ -1,7 +1,7 @@
 # ALKH - Debugging Algorithms Suite
 Name inspiration: Muhammad ibn Musa al Khwarizmi
 
-![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-fold.gif?raw=true)
+![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-focus.gif?raw=true)
 <h2>Features</h2>
 <ul>
     <li>Context based Auto-Focus: Understand variable's data path by folding, highlighting and navigating code.</li>
@@ -54,8 +54,8 @@ git clone https://github.com/erez-aharonov/alkh-dist.git
     </ul>
 
 2. PyCharm's UI:<br>
-Right-click on the line of interest: Choose ALKH->Auto Fold
-![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/auto-fold.png?raw=true)
+Right-click on the line of interest: Choose ALKH->Auto Focus
+![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/popup-menu.png?raw=true)
 3. Result
     <ul>
         <li>Context based folded and unfolded code</li>
