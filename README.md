@@ -41,7 +41,7 @@ Name inspiration: Muhammad ibn Musa al Khwarizmi
 1. Get files: <br> 
 git clone https://github.com/erez-aharonov/alkh-dist.git
 2. Install plugin: 
-<br>Use PyCharm's UI: File->Settings->Plugins->gear-icon->Install Plugin from Disk: Choose alkh-X.X.X.zip
+<br>Use PyCharm's UI: File->Settings->Plugins->Marketplace: ALKH
 ![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/pycharm_installation.png?raw=true)
 3. [Optional] Change server's port: PyCharm's UI: File->Settings->Tools->ALKH->Port number, default port is 13900
 ![](https://github.com/erez-aharonov/alkh-dist/blob/main/readme_files/port_setting.png?raw=true)
